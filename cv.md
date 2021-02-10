@@ -28,5 +28,5 @@ I have worked as a customer support agent for a couple of international projects
 - Frontendmasters.com
 
 # English
-C1: 
+__C1:__ 
 I've lived in Finland and England. Also, I've worked as technical support operator in a couple of international project. Thus, I had plenty of practice.
