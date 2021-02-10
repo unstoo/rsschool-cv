@@ -23,9 +23,9 @@ I have worked as a customer support agent for a couple of international projects
 - Computers Science 2016-2018, TSI, Latvia
 
 ## Courses
-HTML Academy Level 1 & Level 2
-Stepik.org
-Frontendmasters.com
+- HTML Academy Level 1 & Level 2
+- Stepik.org
+- Frontendmasters.com
 
 # English
 C1: 
