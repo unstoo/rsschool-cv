@@ -10,17 +10,17 @@ Revise & reinforce my web development skills; enter the industry professionally.
 I have worked as a customer support agent for a couple of international projects. I've done some web development for those projects.
 
 # Skills
-HTML / CSS
-JavaScript
-React.js
-Node.js
-Git
+- HTML / CSS
+- JavaScript
+- React.js
+- Node.js
+- Git
 
 # Education
 
 ## Formal
-Film and Video 2006-2007, Evangeliska folkhögskolan i Svenskfinland, Finland
-Computers Science 2016-2018, TSI, Latvia
+- Film and Video 2006-2007, Evangeliska folkhögskolan i Svenskfinland, Finland
+- Computers Science 2016-2018, TSI, Latvia
 
 ## Courses
 HTML Academy Level 1 & Level 2
