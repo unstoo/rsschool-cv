@@ -10,6 +10,18 @@
   margin-left: 5px;
 }
 
+.avatar-wrapper {
+  display: flex;
+  align-items: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.name {
+  font-size: 24px;
+  margin-left: 25px;
+}
+
 .profile-picture {
   width: 90px;
   height: 90px;
@@ -24,4 +36,18 @@
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   white-space: nowrap;
+}
+
+.footer {
+  margin-top: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid silver;
+}
+
+.logo {
+  height: 30px;
+  width: 80px;
+  display: block;
 }
